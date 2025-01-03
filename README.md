@@ -1,6 +1,11 @@
 # OnlineShope Marketing Insights
 Data analysis project using Python, SQL, and Power BI to optimize OnlineShope's marketing strategies, enhance customer engagement, improve conversion rates, and analyze customer feedback for actionable insights.
     
+<img width="579" alt="Overview" src="https://github.com/user-attachments/assets/2f4807c2-85e9-4bf3-8095-f5baca553684" />
+<img width="578" alt="Conversion" src="https://github.com/user-attachments/assets/5ccc8f3d-3fe6-4334-85c1-2169a1e9b260" />
+<img width="579" alt="Customer Review" src="https://github.com/user-attachments/assets/b92a4e7b-9b1d-4433-af3e-6a1cb5016728" />
+<img width="579" alt="Social Media" src="https://github.com/user-attachments/assets/d58bd28f-3412-43a7-8467-3e65bc440ca9" />
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#Features)
