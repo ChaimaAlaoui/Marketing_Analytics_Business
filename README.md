@@ -6,6 +6,9 @@ Data analysis project using Python, SQL, and Power BI to optimize OnlineShope's 
 <img width="579" alt="Customer Review" src="https://github.com/user-attachments/assets/b92a4e7b-9b1d-4433-af3e-6a1cb5016728" />
 <img width="579" alt="Social Media" src="https://github.com/user-attachments/assets/d58bd28f-3412-43a7-8467-3e65bc440ca9" />
 
+
+<img width="868" alt="Tables" src="https://github.com/user-attachments/assets/c3e40c3a-b194-432c-bd02-49ea7ec7072f" />
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#Features)
